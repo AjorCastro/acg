@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "aula.html",
     "theme": {
       "name": "educationm4",
       "title": "EducationM4",
@@ -68,8 +68,8 @@
       "settings": {
         "main": true,
         "title": "ACG",
-        "meta_descr": "OTEC - Accountability Consulting Group SpA.\nDonde aprender es una Experiencia de Aprendizaje guiada por personas que acompañan al desarrollo personal.",
-        "header_custom": "",
+        "meta_descr": "OTEC - Accountability Consulting Group SpA.\nDonde aprender es una Experiencia de Aprendizaje guiada por personas que acompañan tu desarrollo individual, profesional y familiar.",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-207760897-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-207760897-1');\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -2536,7 +2536,9 @@
       "settings": {
         "title": "aula virtual",
         "order": 1,
-        "meta_descr": "Instrucciones para usar la Plataforma de Aprendizaje on-line de Accountability Consulting Group"
+        "meta_descr": "Instrucciones para usar la Plataforma de Aprendizaje on-line de Accountability Consulting Group",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-207760897-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-207760897-1');\n</script>",
+        "meta_image": "@PROJECT_PATH@/assets/images/acg-hd-700x671.png"
       },
       "components": [
         {
