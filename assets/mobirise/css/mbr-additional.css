@@ -1989,45 +1989,6 @@ section.lazy-placeholder:after {
 .cid-sGtD2zPMY0 .body-item {
   text-align: left;
 }
-.cid-sLQodsQagC {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-sLQodsQagC .card {
-  padding: 1rem 1rem 3rem 1rem;
-}
-.cid-sLQodsQagC .card-img {
-  padding-bottom: 2rem;
-}
-.cid-sLQodsQagC .mbr-text {
-  color: #767676;
-}
-.cid-sLQodsQagC span {
-  font-size: 14px;
-  color: #ffffff;
-}
-.cid-sLQodsQagC .mbr-section-btn {
-  margin-left: 0;
-}
-.cid-sLQodsQagC .date span {
-  display: inline-block;
-  background-color: #0a1c44;
-  padding: 0.2rem 1rem;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  max-width: 90%;
-  overflow: hidden;
-}
-@media (max-width: 767px) {
-  .cid-sLQodsQagC .card-title {
-    text-align: center;
-  }
-  .cid-sLQodsQagC p.mbr-text,
-  .cid-sLQodsQagC p.date {
-    text-align: center;
-  }
-}
 .cid-sGtYWKjA8J {
   padding-top: 30px;
   padding-bottom: 45px;
